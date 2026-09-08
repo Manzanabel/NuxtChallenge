@@ -1,4 +1,4 @@
-# Test technique — Dev Frontend
+# Nuxt Challenge
 
 Les objectifs sont listés dans le fichier [INSTRUCTIONS](./INSTRUCTIONS.md)
 
