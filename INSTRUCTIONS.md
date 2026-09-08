@@ -1,5 +1,3 @@
-# Test technique — Dev Frontend
-
 Salut 👋
 
 Bienvenue sur ce test technique. Tu as devant toi une todo app Nuxt 4 qui fonctionne… mais qui a été écrite avec beaucoup d'amour et zéro bonne pratique. C'est volontaire, promis.
